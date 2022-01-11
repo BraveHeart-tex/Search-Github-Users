@@ -18,6 +18,6 @@ Axios
 
 The GithubAPI
 
-###Live Demo on Netlify
+##Live Demo on Netlify
 
 You can try out the live demo on Netlify via this link: https://bora-search-github-users.netlify.app/
